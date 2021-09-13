@@ -771,7 +771,7 @@ about
   left: 45px;
   font-size: 100px;
   font-weight: 600;
-  color: #fdefe9;
+  color: #fbded2;
 }
 
 .features-item img {
@@ -900,19 +900,21 @@ testimonials
 #testimonials .item .testimonial-content p {
   color: #fff;
   font-style: italic;
-  font-weight: 200;
+  font-weight: 350;
   margin: 20px 0px 15px 0px;
 }
 
 #testimonials .item .testimonial-content span {
   color: #fff;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 13px;
 }
 
 #testimonials .author img {
-  max-width: 120px;
+  width: 120px;
+  height: 120px;
   margin-bottom: -60px;
+  border-radius: 50%;
 }
 
 .owl-carousel .owl-nav button.owl-next span {
